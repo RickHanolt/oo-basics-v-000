@@ -1,7 +1,7 @@
 class Shoe
 
-  def initialize(brand)
+  def initialize(brand = nil)
 
   end
-  
+
 end
