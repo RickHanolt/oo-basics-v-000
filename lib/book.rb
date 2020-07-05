@@ -6,4 +6,7 @@ class Book
     @author = author if author
   end
 
+  def turn_page
+
+  end
 end
